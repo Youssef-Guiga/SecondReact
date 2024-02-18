@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Realtime Gamer - Personal Use Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Realtime Gamer - Personal Use Regular'), url('RealtimeGamerPersonalUse-ZVL38.woff') format('woff');
+    }
+
+    #titre{
+        font-family:'Realtime Gamer - Personal Use Regular';
+        font-weight: 900;
+        color: rgb(147, 221, 28);
+    }
+    
